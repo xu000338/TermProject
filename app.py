@@ -87,7 +87,7 @@ with st.form("user_inputs"):
     
     # Loan Amount Term
     Loan_Amount_Term = st.selectbox("Loan Amount Term (Months)", 
-                                    options=["360", "180", "240", "120", "60"])
+                                    options=["360", "240", "180", "120", "60"])
     
     # Credit History
     Credit_History = st.selectbox("Credit History", 
