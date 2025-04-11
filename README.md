@@ -22,3 +22,6 @@ This project takes the code in the credit_eligibility_model.py, real_estate_solu
 
 # Streamlit App
 https://termproject-vbbynbekop9opu2gespk9b.streamlit.app/
+
+# GitHub Link
+https://github.com/xu000338/TermProject
