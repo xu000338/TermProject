@@ -16,7 +16,7 @@ This project takes the code in the credit_eligibility_model.py, real_estate_solu
 
 # To Run Application
 1. Ensure all required libraries are installed
-2. Open a Terminal window in the folder where "app.py" is located (./TermProject/app.py)
+2. Open a Terminal window in the directory "./TermProject" (where the Streamlit executable, app.py, is located)
 3. Type "streamlit run app.py" and press "Enter"
 4. The Streamlit app should open in a new browser window; if not, navigate to "http://localhost:8501/"
 
